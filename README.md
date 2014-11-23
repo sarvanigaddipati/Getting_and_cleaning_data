@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7283acdc773feff823af3dff0ec0589706d80425
 Getting and Cleaning Data Course Project
 
 You should create one R script called run\_analysis.R that does the
@@ -20,3 +24,11 @@ Dependencies
 
 run\_analysis.R file will help you to install the dependencies
 automatically. It depends on reshape2 and data.table.
+<<<<<<< HEAD
+=======
+=======
+Getting_and_cleaning_data
+=========================
+>>>>>>> df13fea2b3b8c7fc6e658602f7c457b162092b6b
+
+>>>>>>> 7283acdc773feff823af3dff0ec0589706d80425
